@@ -1,5 +1,5 @@
 # Moses
-My Simple Portfolio
+## My Simple Portfolio
 
 My name is Bankole Moses, you can call me mocelo banks. , I am a data driven automation engineer. One of my favourite moments is using data to solve real world problems, then automate the process, making it easier for everyone to benefit from the result of my anylysed data. 
 
