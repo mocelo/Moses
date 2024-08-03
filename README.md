@@ -7,4 +7,5 @@ My interest for chess is also as strong as my interest for data, don't be amazed
 I buld automations with no code/low code tools, i emplore you to join me in my pretty amazing data world. I assure you would find amazing stuffs, If not now, please come back later to check.
 
 <p <span style='font-size:100px;'>&#128075;</span> Contact me on social media </p>
+<p><a href="https://www.linkedin.com/in/moses-b-0403a1129/">My LinkedIn Profile</a></p>
 
